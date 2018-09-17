@@ -1,2 +1,2 @@
-# TheHuxleyExercices IN JAVA MODE HARD!
+# TheHuxleyExercices IN C++ MODE HARD!
  Some questions on the site https://www.thehuxley.com/ resolved
